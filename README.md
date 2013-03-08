@@ -1,4 +1,4 @@
-tsuiseki-captcha
+Tsuiseki Captcha Community Version
 ================
 
 http://www.tsuiseki-captcha.com
