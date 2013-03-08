@@ -21,7 +21,7 @@ Some additional key facts of the Tsuiseki Captcha are:
 - Easy installation - little or no changes to website needed
 - System adjustments with little effort - short installation documentation
 - Very fast loading times - thus no interference of the functionalities
-- Mostly instant recognition of Bot traffic
+- Mostly instant recognition of Spam
 
 Installation
 --------------
