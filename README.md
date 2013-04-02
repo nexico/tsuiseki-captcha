@@ -27,16 +27,13 @@ Installation steps
 --------------
 
 *Step 1*
-
 Download the actual tsuiseki_captcha.js file from thisGithub repository. The file is available at: 
 src / tsuiseki_captcha.js.zip 
 
 *Step 2*
-
 Unzip the tsuiseki_captcha.js.zip file. 
 
 *Step 3*
-
 Integrate the JavaScript file to your website and finish the integration of the Tsuiseki Captcha into your page with the help of the following installation documentation.
 
 Installation documentation
