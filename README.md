@@ -44,7 +44,7 @@ Installation documentation
 
 Get the complete installation instruction at: http://www.tsuiseki-captcha.com/en/installation
 
-Licence
+License
 --------------
 
 It comes without any warranty and is licensed under the BSD license (see LICENSE for details).
